@@ -1,0 +1,186 @@
+body{
+  margin: 0px;
+overflow-x: hidden;
+background-color: #bdbdbd78;
+
+}
+#homepage{
+  width: 100%;
+  height: 57px;
+  background-color:aliceblue;
+  margin-top: -20px;
+
+}
+.image2{
+  display: flex;
+  justify-content: stretch;
+  height: -235px;
+  margin-top: -175px;
+  height: 650px;
+
+}
+
+.name {
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  color: black;
+  margin-top: -13px;
+
+}
+.image{
+  display: flex;
+  justify-content: end;
+}
+.name img {
+    padding: 20px;
+    height: 30px;
+    position: relative;
+    bottom: 25px;
+    margin-left: -35px;
+    border: transparent;
+}
+.navbar ul{
+  display: flex;
+  justify-content: flex-end;
+  height: 20px;
+  margin: 30px;
+  padding: 20px;
+  list-style: none;
+  color: white;
+}
+.navbar{
+  position: relative;
+  bottom: 135px;
+  color: white;
+  
+}
+a:link {
+  color:white;
+  filter: brightness(100%);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.image img{
+  display: flex;
+  justify-content: flex-end;
+  width: 35%;
+  height: 40%;
+  margin-left: 800px;
+  position: relative;
+  bottom: 260px;
+  border-radius: 10px;
+}
+.ourcourse1{
+  width: fit-content;
+  margin-left: 10px;
+  position: relative;
+  top: -376px;
+  right: -420px;
+  color: white;
+  border: 2px white solid;
+  padding-top: -31px;
+  border-radius: 17px;
+}
+  .content, .heading3{
+    position: relative;
+    top: -73px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+  }
+ #ourcourse{
+    display: flex;
+    justify-content: space-between;
+    border: transparent;
+    width: 100%;
+    height: 170px;
+    position: relative;
+    top: -60px;
+ }
+ .inter , .degree , .post {
+    position: relative;
+    top: -20px;
+    border: transparent;
+    border-radius: 5px;
+    right: -203px;
+    width: 116%;
+    display: flex;
+    justify-content: center;
+    margin-left: -170px;
+    background-color: beige;
+ }
+ #ourcourse p{
+    position: relative;
+    right: 40px;
+    top: 6px;
+    display: flex;
+    justify-content: space-between;
+ }
+ #enroll{
+    background-image: url("https://media.istockphoto.com/photos/business-people-negotiating-at-boardroom-behind-closed-doors-picture-id1127397327?s=612x612");
+    border: transparent;
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin-left: 237px;
+    margin-top: -65px;
+    filter: brightness(0.5);
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: -240px;
+    color: white;
+    filter: opacity(5.5);
+}
+.text2 {
+    display: flex;
+    justify-content: center;
+    border: 1px white solid;
+    width: 150px;
+    height: 28px;
+    color: white;
+    text-decoration: none;
+    filter: opacity(8.5);
+    margin-top: 100px;
+    margin-left: 405px;
+    padding-top: 7px;
+}  
+  .lastheading{
+    width: 100%;
+    bottom: 85px;
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+
+}
+  .lastcontent , .icon {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: -20px;
+
+  }
+  .icon a{
+    display: flex;
+    justify-content: center;
+  
+   }
+ 
